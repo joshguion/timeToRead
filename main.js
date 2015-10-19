@@ -13,6 +13,6 @@ var readingTime = function(){
   var finalString = content.split(" ");
   var numOfWords = finalString.length;
   var total = Math.round(numOfWords/wpm);
-  return total + " minutes";
+  return total + " minutes ]";
 }
 document.querySelector('header').innerHTML += readingTime();
