@@ -25,6 +25,7 @@ img {
 
 h1 {
   font-family: 'Tangerine', cursive;
+  opacity: 0.55;
   font-size: 5em;
   font-weight: lighter;
   margin-top: -2%;
@@ -43,6 +44,7 @@ hr {
 
 header {
   font-size: 1.25em;
+  opacity: 0.65;
   font-weight: lighter;
   margin-bottom: 5%;
   margin-top: -3%;
