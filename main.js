@@ -1,4 +1,4 @@
-var wpm = 400;
+var wpm = 230;
 var harrisonAddress;
 var harryStr;
 var content;
